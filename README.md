@@ -65,14 +65,6 @@ git clone https://github.com/YOUR_USERNAME/tic-tac-toe-game.git
 5. If all cells are filled without a winner, the game ends in a draw.
 6. Click **Restart** to play again.
 
-## 📸 Project Preview
-
-Add a screenshot of your game here:
-
-```text
-![Tic Tac Toe Game](screenshot.png)
-```
-
 ## 👩‍💻 Author
 
 Pragna S
